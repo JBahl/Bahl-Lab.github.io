@@ -10,7 +10,7 @@ version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md*
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![minima theme preview](/screenshot.png)
+![minima th review](/screenshot.png)
 
 ## Installation
 
