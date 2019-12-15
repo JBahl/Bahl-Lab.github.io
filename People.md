@@ -1,4 +1,4 @@
-## Lab Members
+title: Lab Members
 
 # Principle Investigator
 ![Justin Bahl](image.png "Justin Bahl")
