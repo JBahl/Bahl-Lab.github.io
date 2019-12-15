@@ -1,13 +1,9 @@
 #Lab Members
 
-#
-#
-
-# Principle Investigator
 
 ![Justin Bahl](image.png "Justin Bahl")
 
-# Lab Members
+# 
 
 
 ![Jiani Chen](image1.png "Jiani Chen")
