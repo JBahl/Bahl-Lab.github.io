@@ -5,7 +5,7 @@ permalink: /Lab Members/
 ---
 #### Principle Investigator
 
-<img align="left" src="/Labmems/image.jpg" title="Justin Bahl" width="100" height="100">
+<img align="middle" src="/Labmems/image.jpg" title="Justin Bahl" width="100" height="100">
 Justin Bahl
 
 
