@@ -3,8 +3,6 @@
 
 ![Justin Bahl](image.png "Justin Bahl")
 
-# 
-
 
 ![Jiani Chen](image1.png "Jiani Chen")
 ![Lambodhar Damodaran](image2.png "Lambodhar Damodaran")
