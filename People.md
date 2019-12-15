@@ -4,7 +4,8 @@ title: Lab Members
 permalink: /Lab Members/
 ---
 #### Principle Investigator
-![Justin Bahl](/Labmems/image.jpg "Justin Bahl")
+
+<img align="left" src="/Labmems/image.jpg" title="Test" width="400" height="790">
 
 #### Students
 ![Jiani Chen](/Labmems/image1.jpg "Jiani Chen")
