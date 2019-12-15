@@ -6,16 +6,27 @@ permalink: /Lab Members/
 #### Principle Investigator
 
 <img align="left" src="/Labmems/image.jpg" title="Justin Bahl" width="100" height="100">
+Justin Bahl
+
+
 
 #### Students
 
 <img align="left" src="/Labmems/image1.jpg" title="Jiani Chen" width="100" height="100">
 
+Jiani Chen
+
 <img align="left" src="/Labmems/image2.jpg" title="Lambodhar Damodaran" width="100" height="100">
+
+Lambodhar Damodaran
 
 <img align="left" src="/Labmems/image3.jpg" title="Cody Dailey" width="100" height="100">
 
+Cody Dailey 
+
 <img align="left" src="/Labmems/image4.jpg" title="Zachary Petty" width="100" height="100">
+
+Zachary Petty
 
 <img align="left" src="/Labmems/image.jpg" title="Shuban Ullah" width="100" height="100">
 
