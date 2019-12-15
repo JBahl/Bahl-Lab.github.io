@@ -10,7 +10,9 @@ permalink: /Lab Members/
 #### Students
 
 <img align="left" src="/Labmems/image1.jpg" title="Jiani Chen" width="100" height="100">
+###### Jiani Chen
 <img align="left" src="/Labmems/image2.jpg" title="Lambodhar Damodaran" width="100" height="100">
+###### lambodhar Damodaran
 <img align="left" src="/Labmems/image3.jpg" title="Cody Dailey" width="100" height="100">
 <img align="left" src="/Labmems/image4.jpg" title="Zachary Petty" width="100" height="100">
 <img align="left" src="/Labmems/image.jpg" title="Shuban Ullah" width="100" height="100">
@@ -22,5 +24,5 @@ permalink: /Lab Members/
 #### Alumni
 
 
-<img align="left" src="/Labmems/image7.jpg" title="Xueting Qiu" width="100" height="100">
-<img align="left" src="/Labmems/image8.jpg" title="Joseph Hicks" width="100" height="100">
+<img align="left" src="/Labmems/image7.jpeg" title="Xueting Qiu" width="100" height="100">
+<img align="left" src="/Labmems/image8.jpeg" title="Joseph Hicks" width="100" height="100">
