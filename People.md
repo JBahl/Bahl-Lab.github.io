@@ -5,7 +5,7 @@ permalink: /Lab Members/
 ---
 #### Principle Investigator
 
-<img align="left" src="/Labmems/image.jpg" title="Test" width="400" height="790">
+<img align="left" src="/Labmems/image.jpg" title="Test" width="100" height="100">
 
 #### Students
 ![Jiani Chen](/Labmems/image1.jpg "Jiani Chen")
