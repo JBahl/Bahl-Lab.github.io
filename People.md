@@ -1,9 +1,9 @@
-#Lab Members
+## Lab Members
 
-
+# Principle Investigator
 ![Justin Bahl](image.png "Justin Bahl")
 
-
+# Students
 ![Jiani Chen](image1.png "Jiani Chen")
 ![Lambodhar Damodaran](image2.png "Lambodhar Damodaran")
 ![Cody Dailey](image1.png "title-1")
