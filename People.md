@@ -5,20 +5,22 @@ permalink: /Lab Members/
 ---
 #### Principle Investigator
 
-<img align="left" src="/Labmems/image.jpg" title="Test" width="100" height="100">
+<img align="left" src="/Labmems/image.jpg" title="Justin Bahl" width="100" height="100">
 
 #### Students
-![Jiani Chen](/Labmems/image1.jpg "Jiani Chen")
-![Lambodhar Damodaran](/Labmems/image2.jpg "Lambodhar Damodaran")
-![Cody Dailey](/Labmems/image3.jpg "Cody Dailey")
-![Zachary Petty](/Labmems/image4.jpg "Zachary Petty")
-![Shuban Ullah](/Labmems/image.jpg "Shuban Ullah")
-![Leke Lyu](/Labmems/image6.jpg "Leke Lyu")
-![Swan Tan](/Labmems/image.jpg "Swan Tan")
+
+<img align="left" src="/Labmems/image1.jpg" title="Jiani Chen" width="100" height="100">
+<img align="left" src="/Labmems/image2.jpg" title="Lambodhar Damodaran" width="100" height="100">
+<img align="left" src="/Labmems/image3.jpg" title="Cody Dailey" width="100" height="100">
+<img align="left" src="/Labmems/image4.jpg" title="Zachary Petty" width="100" height="100">
+<img align="left" src="/Labmems/image.jpg" title="Shuban Ullah" width="100" height="100">
+<img align="left" src="/Labmems/image6.jpg" title="Leke Lyu" width="100" height="100">
+<img align="left" src="/Labmems/image.jpg" title="Swan Tan" width="100" height="100">
 
 
 
 #### Alumni
 
-![Xueting Qiu](/Labmems/image7.jpeg "Xueting Qiu")
-![Joseph Hicks](/Labmems/image8.jpeg "Joseph Hicks")
+
+<img align="left" src="/Labmems/image7.jpg" title="Xueting Qiu" width="100" height="100">
+<img align="left" src="/Labmems/image8.jpg" title="Joseph Hicks" width="100" height="100">
