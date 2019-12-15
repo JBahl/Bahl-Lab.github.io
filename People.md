@@ -3,10 +3,10 @@ layout: page
 title: Lab Members
 permalink: /Lab Members/
 ---
-# Principle Investigator
+#### Principle Investigator
 ![Justin Bahl](image.png "Justin Bahl")
 
-# Students
+#### Students
 ![Jiani Chen](image1.png "Jiani Chen")
 ![Lambodhar Damodaran](image2.png "Lambodhar Damodaran")
 ![Cody Dailey](image1.png "title-1")
@@ -17,7 +17,7 @@ permalink: /Lab Members/
 
 
 
-# Alumni
+#### Alumni
 
 ![Xueting Qiu](image1.png "title-1")
 ![Joseph Hicks](image2.png "title-2")
