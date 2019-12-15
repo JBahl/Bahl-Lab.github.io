@@ -3,7 +3,7 @@ layout: page
 title: Lab Members
 permalink: /Lab Members/
 ---
-### Principle Investigator
+## Principle Investigator
 
 <img align="middle" src="/Labmems/image.jpg" title="Justin Bahl" width="100" height="100">
 
@@ -11,7 +11,7 @@ Justin Bahl
 
 
 
-### Students
+## Students
 
 <img align="middle" src="/Labmems/image1.jpg" title="Jiani Chen" width="100" height="100">
 
@@ -42,7 +42,7 @@ Leke Lyu - Phd Student - Institute of Bioinformatics
 Swan Tan - Phd Student - Department of Infectious Disease
 
 
-### Alumni
+## Alumni
 
 
 <img align="middle" src="/Labmems/image7.jpeg" title="Xueting Qiu" width="100" height="100">
