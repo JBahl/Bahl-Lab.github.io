@@ -1,5 +1,8 @@
+---
+layout: page
 title: Lab Members
-
+permalink: /Lab Members/
+---
 # Principle Investigator
 ![Justin Bahl](image.png "Justin Bahl")
 
