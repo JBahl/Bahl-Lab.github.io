@@ -4,20 +4,20 @@ title: Lab Members
 permalink: /Lab Members/
 ---
 #### Principle Investigator
-![Justin Bahl](image.png "Justin Bahl")
+![Justin Bahl](/Labmems/image.jpg "Justin Bahl")
 
 #### Students
-![Jiani Chen](image1.png "Jiani Chen")
-![Lambodhar Damodaran](image2.png "Lambodhar Damodaran")
-![Cody Dailey](image1.png "title-1")
-![Zachary Petty](image1.png "title-1")
-![Shuban Pawar](image1.png "title-1")
-![Leke Lyu](image1.png "title-1")
-![Swan Tan](image1.png "title-1")
+![Jiani Chen](/Labmems/image1.jpg "Jiani Chen")
+![Lambodhar Damodaran](/Labmems/image2.jpg "Lambodhar Damodaran")
+![Cody Dailey](/Labmems/image3.jpg "Cody Dailey")
+![Zachary Petty](/Labmems/image4.jpg "Zachary Petty")
+![Shuban Ullah](/Labmems/image.jpg "Shuban Ullah")
+![Leke Lyu](/Labmems/image6.jpg "Leke Lyu")
+![Swan Tan](/Labmems/image.jpg "Swan Tan")
 
 
 
 #### Alumni
 
-![Xueting Qiu](image1.png "title-1")
-![Joseph Hicks](image2.png "title-2")
+![Xueting Qiu](/Labmems/image7.jpeg "Xueting Qiu")
+![Joseph Hicks](/Labmems/image8.jpeg "Joseph Hicks")
