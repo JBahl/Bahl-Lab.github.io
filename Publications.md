@@ -1,8 +1,5 @@
-<html>
-<head>
-<title>Title</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
+# Publications
+
 <body>
 Qiu, X., V. R. Duvvuri and J. Bahl (2019). &quot;Computational Approaches and Challenges to Developing Universal Influenza Vaccines.&quot; <u>Vaccines (Basel)</u> <b>7</b>(2).<p>
 Kwon, J. H., J. Bahl, D. E. Swayne, Y. N. Lee, Y. J. Lee, C. S. Song and D. H. Lee (2019). &quot;Domestic ducks play a major role in the maintenance and spread of H5N8 highly pathogenic avian influenza viruses in South Korea.&quot;<p>
@@ -63,4 +60,4 @@ Gubbay, J. B., R. J. Webby, G. Kayali and J. Bahl.<p>
 El Taweel, A. N., A. S. Kayed, Y. Moatasim, O. Kutkat, O. Bagato, P. P. McKenzie, Z. Cai, R. Badra, M. Kutkat and J. Bahl.<p>
 Crumpton, J. C., J. Seiler, M. Edmonson and G. Wu.<p>
 </body>
-</html>
+
