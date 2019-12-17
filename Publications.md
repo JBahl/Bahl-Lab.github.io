@@ -4,8 +4,8 @@ title: Publications
 permalink: /Publications/
 ---
 
+<a href="https://scholar.google.com/citations?user=VQ5JSeQAAAAJ"> Google scholar</a>
 
-[Google scholar] (https://scholar.google.com/citations?user=VQ5JSeQAAAAJ)
 
 <body>
 Qiu, X., V. R. Duvvuri and J. Bahl (2019). &quot;Computational Approaches and Challenges to Developing Universal Influenza Vaccines.&quot; <u>Vaccines (Basel)</u> <b>7</b>(2).<p>
