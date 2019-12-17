@@ -2,10 +2,7 @@
 layout: post
 ---
 
-
-# We are looking for Post docs!
-
-We currently have two open positions for Post-doctoral scholars, information about project goals are below:
+We currently have two open positions for Post-doctoral scholars! Information about project goals are below:
 
 
 We are looking for postdoc fellows to join us and work on the following NIAID-NIH and CDC funded projects.
