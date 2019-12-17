@@ -51,3 +51,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - ['jekyll/scholar']
+ 
+scholar:
+  style: mla
