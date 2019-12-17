@@ -42,7 +42,7 @@ minima:
 header_pages:
  - about.md
  - People.md
- - Pubs.md
+ - Publications.html
  
 
 # Build settings
