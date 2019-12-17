@@ -1,4 +1,6 @@
-# Publications
+### Bahl lab Publications
+
+See also google scholar: https://scholar.google.com/citations?user=VQ5JSeQAAAAJ
 
 <body>
 Qiu, X., V. R. Duvvuri and J. Bahl (2019). &quot;Computational Approaches and Challenges to Developing Universal Influenza Vaccines.&quot; <u>Vaccines (Basel)</u> <b>7</b>(2).<p>
@@ -53,5 +55,6 @@ Al-Azemi, A., J. Bahl, S. Al-Zenki, Y. Al-Shayji, S. Al-Amad, H. Chen, Y. Guan, 
 Xu, K. M., G. J. Smith, J. Bahl, L. Duan, H. Tai, D. Vijaykrishna, J. Wang, J. X. Zhang, K. S. Li, X. H. Fan, R. G. Webster, H. Chen, J. S. Peiris and Y. Guan (2007). &quot;The genesis and evolution of H9N2 influenza viruses in poultry from southern China, 2000 to 2005.&quot; <u>J Virol</u> <b>81</b>(19): 10389-10401.<p>
 Cheung, C. L., D. Vijaykrishna, G. J. Smith, X. H. Fan, J. X. Zhang, J. Bahl, L. Duan, K. Huang, H. Tai, J. Wang, L. L. Poon, J. S. Peiris, H. Chen and Y. Guan (2007). &quot;Establishment of influenza A virus (H6N1) in minor poultry species in southern China.&quot; <u>J Virol</u> <b>81</b>(19): 10402-10412.<p>
 Bahl, J., R. Jeewon and K. D. Hyde (2005). &quot;Phylogeny of Rosellinia capetribulensis sp. nov. and its allies (Xylariaceae).&quot; <u>Mycologia</u> <b>97</b>(5): 1102-1110.<p>
+  
 </body>
 
