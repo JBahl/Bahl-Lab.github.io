@@ -1,4 +1,9 @@
-### Bahl lab Publications
+---
+layout: page
+title: Publications
+permalink: /Publications/
+---
+
 
 Google scholar: https://scholar.google.com/citations?user=VQ5JSeQAAAAJ
 
