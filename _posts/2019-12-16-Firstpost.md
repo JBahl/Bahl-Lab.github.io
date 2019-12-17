@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+
+# Welcome to the Bahl lab website! 
+
+We are happy to share our lab website where we will post the exciting work being done in the Bahl lab at the University of Georgia!
+
+On this page you will find some information about the different projects being done in the lab and some information about the different members of the labs and the great things that they are doing.
+
+We are excited to be sharing our scientific journey with you and would love to hear from you with any questions or thoughts you might have! 
