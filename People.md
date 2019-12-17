@@ -47,7 +47,7 @@ Swan Tan - Phd Student - Department of Infectious Disease
 
 <img align="middle" src="/Labmems/image7.jpeg" title="Xueting Qiu" width="100" height="100">
 
-Xueting Qiu - Post Doc - Harvard T.H Chan School of Public Health
+Xueting Qiu - Post Doc - Harvard T.H. Chan School of Public Health
 
 <img align="middle" src="/Labmems/image8.jpeg" title="Joseph Hicks" width="100" height="100">
 
