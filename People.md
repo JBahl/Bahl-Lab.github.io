@@ -53,6 +53,6 @@ Xueting Qiu - Post Doc - Harvard T.H. Chan School of Public Health
 
 Joseph Hicks - CDC Fellow - Epidemic Intelligence Service
 
-<img align="middle" src="/Labmems/image.jpg" title="Joseph Hicks" width="100" height="100">
+<img align="middle" src="/Labmems/image10.jpeg" title="Venkata Duvvuri" width="100" height="100">
 
 Venkata Duvvuri - Data Scientist - Institute for Systems Biology,Seattle WA
